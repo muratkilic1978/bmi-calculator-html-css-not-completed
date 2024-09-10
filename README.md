@@ -1,0 +1,1 @@
+# Implementér en BMI-beregner i JavaScript ved at anvende den eksisterende HTML- og CSS-fil. Der må ikke laves ændringer i HTML- og CSS-filerne
